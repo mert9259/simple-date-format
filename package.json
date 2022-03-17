@@ -1,0 +1,24 @@
+{
+  "name": "simple-date-format",
+  "version": "1.0.0",
+  "description": "You can write th date you sent in the format you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mert9259/simple-date-format.git"
+  },
+  "keywords": [
+    "date",
+    "simple",
+    "format"
+  ],
+  "author": "Mert KAYA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mert9259/simple-date-format/issues"
+  },
+  "homepage": "https://github.com/mert9259/simple-date-format#readme"
+}
