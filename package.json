@@ -1,5 +1,5 @@
 {
-  "name": "simple-date-format",
+  "name": "simple-formater-for-date",
   "version": "1.0.0",
   "description": "You can write th date you sent in the format you want.",
   "main": "index.js",
